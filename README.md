@@ -51,6 +51,12 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-006400?style=for-the-badge&logoColor=white />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white />
+<img src="https://img.shields.io/badge/update%20to%20google%20cybersecurity />
+<img src="https://github.com/sohailkbr6/Google-Cybersecurity-Professional-Certificate-Program.git />
+
+
+
 
 
 </div>
