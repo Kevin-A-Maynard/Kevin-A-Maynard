@@ -57,6 +57,8 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 
 ![Introduction to Virtual Machines in Microsoft Azure](https://img.shields.io/badge/-Introduction%20to%20Virtual%20Machines%20in%20Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f8c4ba2c-d5a9-4878-bfa2-367ddaab35cb" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 
